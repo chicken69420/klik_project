@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-1#xvaj7&kt*ohq0ufq*)%^^3t6+!5cuhf3zmc015(-_h0@w!^n
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'allowedhost.com', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'kliksnav.herokuapp.com']
 
 
 # Application definition
